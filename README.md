@@ -4,7 +4,8 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-<!--### Experiência de trabalho
+
+### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="PGM" src="https://cdn.discordapp.com/attachments/817401092752932916/1017400940896194560/avatar_960.jpg"/>](https://www.aracaju.se.gov.br/procuradoria/)
@@ -14,5 +15,4 @@ Agosto de 2023 - Junho de 2024 \
 [**Procuradoria Geral do Município de Aracaju**](https://www.aracaju.se.gov.br/procuradoria/) • Estágio de desenvolvedor \
 Linguagens & Tecnologias: `JavaScript`, `Html5`, `PostgresSQL`, `MySQL`\
 <br/>
-**BERNOX7/BERNOX7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
