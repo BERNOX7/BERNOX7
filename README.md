@@ -16,6 +16,6 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Estagiário Front-end** \
 Agosto de 2023 - Junho de 2024 \
 [**Procuradoria Geral do Município de Aracaju**](https://www.aracaju.se.gov.br/procuradoria/) • Estágio de desenvolvedor \
-Linguagens & Tecnologias: `Css3`, `JavaScript`, `Html5`, `PostgresSQL`\
+Linguagens & Tecnologias: `Css3`, `JavaScript`, `Html5`, `PostgresSQL`, `VueJs`\
 <br/>
 
