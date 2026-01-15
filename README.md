@@ -10,7 +10,7 @@
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="PGM" src="https://cdn.discordapp.com/attachments/817401092752932916/1017400940896194560/avatar_960.jpg"/>](https://www.aracaju.se.gov.br/procuradoria/)
+
 
 **Estagiário Front-end** \
 Agosto de 2023 - Junho de 2024 \
