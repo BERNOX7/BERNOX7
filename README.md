@@ -5,6 +5,7 @@
   <img align="center" alt="Bernox-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bernox-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Bernox-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Bernox-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue.js/vue.js-plain.svg">
 </div>
 
 ### Experiência de trabalho
